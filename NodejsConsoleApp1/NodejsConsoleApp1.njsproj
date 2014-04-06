@@ -35,6 +35,9 @@
     <Compile Include="src\app.js" />
     <Compile Include="Gruntfile.js" />
     <Compile Include="src\selection.js" />
+    <Compile Include="src\useSelection.js">
+      <TestFramework>Default</TestFramework>
+    </Compile>
     <Compile Include="tests\the_one.js">
       <TestFramework>Default</TestFramework>
     </Compile>
